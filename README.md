@@ -1,7 +1,7 @@
 # ⚡️ Hi, I’m Andrew
 
-I'm a full-stack engineer and tech lead. I love working with new technologies and have lots of experience building,
-event-driven and data processing applications using serverless tech.
+I'm a ***full-stack engineer*** and ***tech lead***. I love working with new technologies and have lots of experience building
+event-driven and data processing applications, as well as a wide range of experience developing UIs.
 
 I'm currently enjoying working with:
 
